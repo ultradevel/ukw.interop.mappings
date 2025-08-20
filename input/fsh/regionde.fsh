@@ -2,7 +2,7 @@
 CodeSystem: IshCountryRegionDE
 Id: IshCountryRegionDE
 Title: "CodeSystem CountryRegionDE"
-Description: "IS-H: GeschlechtCountryRegionDE"
+Description: "IS-H: CountryRegionDE"
 * ^meta.versionId = "1"
 * ^meta.lastUpdated = "2025-08-20T09:16:06Z"
 * ^url = "http://C70001.klinik.uni-wuerzburg.de/erp/codesystem/country/region"
