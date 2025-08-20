@@ -1,0 +1,14 @@
+== Suppressed Messages ==
+
+# Add warning and/or information messages here after you've confirmed that they aren't really a problem
+# (And include comments like this justifying why)
+# See https://github.com/FHIR/sample-ig/blob/master/input/ignoreWarnings.txt for examples
+
+# My reason: ignore
+Conformance resource C:\Users\trampe_u\sushi\gender\fsh-generated\resources\CodeSystem-IshGschl.json - the canonical URL (http://C70001.klinik.uni-wuerzburg.de/CodeSystem/IshGschl) does not match the URL (http://C70001.klinik.uni-wuerzburg.de/erp/codesystem/persons/gender)
+Resource id/url mismatch: IshGschl/http://C70001.klinik.uni-wuerzburg.de/erp/codesystem/persons/gender
+URL Mismatch http://C70001.klinik.uni-wuerzburg.de/CodeSystem/IshGschl vs http://C70001.klinik.uni-wuerzburg.de/erp/codesystem/persons/gender
+URL Mismatch http://C70001.klinik.uni-wuerzburg.de/ValueSet/IshGschlVS vs http://C70001.klinik.uni-wuerzburg.de/erp/valueset/persons/gender
+URL Mismatch http://C70001.klinik.uni-wuerzburg.de/CodeSystem/IshSexSpecialization vs http://C70001.klinik.uni-wuerzburg.de/erp/codesystem/persons/gender-supplemental
+URL Mismatch http://C70001.klinik.uni-wuerzburg.de/ConceptMap/CM-AdministrativeGender-to-Gschl vs http://C70001.klinik.uni-wuerzburg.de/erp/conceptmap/persons/administrative-gender
+URL Mismatch http://C70001.klinik.uni-wuerzburg.de/CodeSystem/IshMaritalStatus vs http://C70001.klinik.uni-wuerzburg.de/erp/codesystem/persons/marital-status
